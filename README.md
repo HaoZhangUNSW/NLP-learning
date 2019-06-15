@@ -1,2 +1,2 @@
-# NLP-learning
-This repository mainly records the nlp learning process.
+# Deep-Learning
+This repository mainly records the deep learning process.
